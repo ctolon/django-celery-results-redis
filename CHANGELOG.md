@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0 (unreleased)
+## 0.1.0 (2026-09-23)
 
 * Initial release: Redis result backend with `raw`, `indexed` and `redis_om`
   drivers, django-celery-results 2.6.0 compatible models, managers, admin,
