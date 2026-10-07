@@ -1990,7 +1990,7 @@ wheels = [
 
 [[package]]
 name = "redis-om"
-version = "1.1.0"
+version = "1.2.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "click" },
@@ -2005,9 +2005,9 @@ dependencies = [
     { name = "types-redis" },
     { name = "typing-extensions" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/fc/55/f5f56a8ee862fcb64cd2962e7af2bca5dc1425affae729289ea2dfadc364/redis_om-1.1.0.tar.gz", hash = "sha256:9b57156ac30683dcd47cfe357b370d542db94dd2295f82e7a2baebd6c206eb62", size = 173162, upload-time = "2026-03-13T18:25:05.936Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/2d/5b/33302677c427da97a9398e6b2e9725521ea2c005eaa0be73bfd0d8475668/redis_om-1.2.0.tar.gz", hash = "sha256:92e8f1739e4786985a9046296094684b12a981acd0a895f6896ec8a3787c484a", size = 177586, upload-time = "2026-10-01T19:03:58.433Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/88/fd/1addfa950f503f6e5acf42ca5a51956183e8501b1992921b3769c25e9d48/redis_om-1.1.0-py3-none-any.whl", hash = "sha256:98614a1e63dd4256e3d1bcdc830216839f0482fca03546b45d79b5d23d53a069", size = 160015, upload-time = "2026-03-13T18:25:04.199Z" },
+    { url = "https://files.pythonhosted.org/packages/83/6c/bab0068d1333fc711309e3c218548654a2c0f143b8cfec4a55dc50f7508b/redis_om-1.2.0-py3-none-any.whl", hash = "sha256:1fad1df7ec877fd9f5be3900045a64b012cb8a3090f318d3bb49fafa56f94c4c", size = 162416, upload-time = "2026-10-01T19:03:56.786Z" },
 ]
 
 [[package]]
